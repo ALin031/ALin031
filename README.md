@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALin031
+- 👋 Hi, I’m Andy Lin.
 - 👀 I’m interested in the blockchain.
 - 🌱 I’m currently learning solidity.
 - 💞️ I’m looking to collaborate on ...
